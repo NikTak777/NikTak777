@@ -1,9 +1,15 @@
 # Hi, I'm Nikita! 👋
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikTak777&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NikTak777&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="GitHub Stats" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikTak777&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=NikTak777&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
