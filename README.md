@@ -19,7 +19,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>Языки программирования</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikTak777&layout=pie&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikTak777&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <h4>3D Календарь активности</h4>
