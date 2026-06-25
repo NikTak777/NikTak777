@@ -49,6 +49,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![1C Enterprise](https://img.shields.io/badge/1C_Enterprise-FF6600?style=for-the-badge&logo=1c&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/godot_engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
